@@ -25,7 +25,7 @@ test:
   timeout: 5000
 
 production:
-  dapter: postgresql
+  adapter: postgresql
   encoding: unicode
   database: hadar.simon
   pool: 5
